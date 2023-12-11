@@ -1,1 +1,2 @@
-# Chat-App
+
+simple readme changes
